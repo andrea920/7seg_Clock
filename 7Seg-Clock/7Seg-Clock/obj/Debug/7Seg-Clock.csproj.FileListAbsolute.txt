@@ -1,0 +1,10 @@
+C:\Users\bmder\Desktop\7Seg-Clock\7Seg-Clock\bin\Debug\7Seg-Clock.exe.config
+C:\Users\bmder\Desktop\7Seg-Clock\7Seg-Clock\bin\Debug\7Seg-Clock.exe
+C:\Users\bmder\Desktop\7Seg-Clock\7Seg-Clock\bin\Debug\7Seg-Clock.pdb
+C:\Users\bmder\Desktop\7Seg-Clock\7Seg-Clock\obj\Debug\7Seg-Clock.csproj.AssemblyReference.cache
+C:\Users\bmder\Desktop\7Seg-Clock\7Seg-Clock\obj\Debug\_7Seg_Clock.Form1.resources
+C:\Users\bmder\Desktop\7Seg-Clock\7Seg-Clock\obj\Debug\_7Seg_Clock.Properties.Resources.resources
+C:\Users\bmder\Desktop\7Seg-Clock\7Seg-Clock\obj\Debug\7Seg-Clock.csproj.GenerateResource.cache
+C:\Users\bmder\Desktop\7Seg-Clock\7Seg-Clock\obj\Debug\7Seg-Clock.csproj.CoreCompileInputs.cache
+C:\Users\bmder\Desktop\7Seg-Clock\7Seg-Clock\obj\Debug\7Seg-Clock.exe
+C:\Users\bmder\Desktop\7Seg-Clock\7Seg-Clock\obj\Debug\7Seg-Clock.pdb
